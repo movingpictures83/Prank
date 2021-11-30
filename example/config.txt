@@ -1,0 +1,2 @@
+Prefix plugins/Prank/example/
+Plugin Prank inputfile HMP_MOCK.v35.fasta outputfile output.prank
